@@ -1,4 +1,6 @@
-## This is the global readme page 👋
+## Find all the documentation under following link:
+https://github.com/lenneflow/documentation/wiki
+
 
 <!--
 
